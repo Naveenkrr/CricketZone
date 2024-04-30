@@ -295,3 +295,5 @@ def shot_result_animation():
      screen.blit(dp_9,(0,0))
      pygame.display.update()
      time.sleep(0.2)
+
+
